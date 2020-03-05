@@ -1,0 +1,83 @@
+[
+    {
+        "title": "sun",
+        "image": "../../../assets/images/whether/sun.png",
+        "description": "sun",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "moon",
+        "image": "../../../assets/images/whether/moon.png",
+        "description": "moon",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "snow",
+        "image": "../../../assets/images/whether/snow.png",
+        "description": "snow",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "rain",
+        "image": "../../../assets/images/whether/rain.png",
+        "description": "rain",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "dime",
+        "image": "../../../assets/images/whether/dime.png",
+        "description": "dime",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "winter",
+        "image": "../../../assets/images/whether/winter.png",
+        "description": "winter",
+        "style": {
+            "height": "132px",
+            "width": "100%"
+        }
+    },
+    {
+        "title": "autumn",
+        "image": "../../../assets/images/whether/autumn.png",
+        "description": "autumn",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "strom",
+        "image": "../../../assets/images/whether/strom.png",
+        "description": "strom",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "cloud",
+        "image": "../../../assets/images/whether/cloud.png",
+        "description": "cloud",
+        "style": {
+            "height": "158px",
+            "width": "80%"
+        }
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "title": "house",
+        "image": "../../../assets/images/around-house/house.png",
+        "description": "house",
+        "style": {
+            "height": "170px",
+            "width": "60%"
+        }
+    },
+    {
+        "title": "home",
+        "image": "../../../assets/images/around-house/home.png",
+        "description": "home",
+        "style": {
+            "height": "200px",
+            "width": "60%"
+        }
+    },
+    {
+        "title": "room",
+        "image": "../../../assets/images/around-house/room.png",
+        "description": "room",
+        "style": {
+            "height": "200px",
+            "width": "80%"
+        }
+    },
+    {
+        "title": "bedroom",
+        "image": "../../../assets/images/around-house/bedroom.png",
+        "description": "bedroom",
+        "style": {
+            "height": "200px",
+            "width": "84%"
+        }
+    },
+    {
+        "title": "washroom",
+        "image": "../../../assets/images/around-house/washroom.png",
+        "description": "washroom",
+        "style": {
+            "height": "200px",
+            "width": "60%"
+        }
+    },
+    {
+        "title": "bathroom",
+        "image": "../../../assets/images/around-house/bathroom.png",
+        "description": "bathroom",
+        "style": {
+            "height": "200px",
+            "width": "65%"
+        }
+    }
+]

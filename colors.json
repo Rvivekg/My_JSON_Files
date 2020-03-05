@@ -1,0 +1,96 @@
+[
+    {
+        "title": "black",
+        "image": "../../../assets/images/colors/black.png",
+        "description": "black",
+        "style": {
+            "height": "110px",
+            "width": "78%"
+        }
+    },
+    {
+        "title": "red",
+        "image": "../../../assets/images/colors/red.png",
+        "description": "red",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "orange",
+        "image": "../../../assets/images/colors/orange.png",
+        "description": "orange",
+        "style": {
+            "height": "104px",
+            "width": "58%"
+        }
+    },
+    {
+        "title": "orange",
+        "image": "../../../assets/images/colors/orange.png",
+        "description": "orange",
+        "style": {
+            "height": "104px",
+            "width": "58%"
+        }
+    },
+    {
+        "title": "green",
+        "image": "../../../assets/images/colors/green.png",
+        "description": "green",
+        "style": {
+            "height": "60px",
+            "width": "85%",
+            "margin-top": "15px"
+        }
+    },
+    {
+        "title": "yellow",
+        "image": "../../../assets/images/colors/yellow.png",
+        "description": "yellow",
+        "style": {
+            "height": "60px",
+            "width": "85%",
+            "margin-top": "15px"
+        }
+    },
+    {
+        "title": "blue",
+        "image": "../../../assets/images/colors/blue.png",
+        "description": "blue",
+        "style": {
+            "height": "111px",
+            "width": "53%",
+            "margin-top": "15px"
+        }
+    },
+    {
+        "title": "pink",
+        "image": "../../../assets/images/colors/pink.png",
+        "description": "pink",
+        "style": {
+            "height": "111px",
+            "width": "60%",
+            "margin-top": "15px"
+        }
+    },
+    {
+        "title": "white",
+        "image": "../../../assets/images/colors/white.png",
+        "description": "white",
+        "style": {
+            "height": "104px",
+            "width": "58%"
+        }
+    },
+    {
+        "title": "gray",
+        "image": "../../../assets/images/colors/gray.png",
+        "description": "gray",
+        "style": {
+            "height": "104px",
+            "width": "58%"
+        }
+    }
+]

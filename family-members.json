@@ -1,0 +1,155 @@
+[
+    {
+        "title": "mother",
+        "image": "../../../assets/images/family-members/mother.png",
+        "description": "mother",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "father",
+        "image": "../../../assets/images/family-members/father.png",
+        "description": "father",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "aunt",
+        "image": "../../../assets/images/family-members/aunt.png",
+        "description": "aunt",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "baby",
+        "image": "../../../assets/images/family-members/baby.png",
+        "description": "baby",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "boy",
+        "image": "../../../assets/images/family-members/boy.png",
+        "description": "boy",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "brother",
+        "image": "../../../assets/images/family-members/brother.png",
+        "description": "brother",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "child",
+        "image": "../../../assets/images/family-members/child.png",
+        "description": "child",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "cousin",
+        "image": "../../../assets/images/family-members/cousin.png",
+        "description": "cousin",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "daughter",
+        "image": "../../../assets/images/family-members/daughter.png",
+        "description": "daughter",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "friend",
+        "image": "../../../assets/images/family-members/friend.png",
+        "description": "friend",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "girl",
+        "image": "../../../assets/images/family-members/girl.png",
+        "description": "girl",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "grandfather",
+        "image": "../../../assets/images/family-members/grandfather.png",
+        "description": "grandfather",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "grandmother",
+        "image": "../../../assets/images/family-members/grandmother.png",
+        "description": "grandmother",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "husband",
+        "image": "../../../assets/images/family-members/husband.png",
+        "description": "husband",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "sister",
+        "image": "../../../assets/images/family-members/sister.png",
+        "description": "sister",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "uncle",
+        "image": "../../../assets/images/family-members/uncle.png",
+        "description": "uncle",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "wife",
+        "image": "../../../assets/images/family-members/wife.png",
+        "description": "wife",
+        "style": {
+            "height": "104px",
+            "width": "50%"
+        }
+    }
+]

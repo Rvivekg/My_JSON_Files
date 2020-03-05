@@ -1,0 +1,101 @@
+[
+    {
+        "title": "0",
+        "image": "../../../assets/images/numbers/0.png",
+        "description": "0",
+        "style": {
+            "height": "90px",
+            "width": "65%"
+        }
+    },
+    {
+        "title": "1",
+        "image": "../../../assets/images/numbers/1.png",
+        "description": "1",
+        "style": {
+            "height": "103px",
+            "width": "65%"
+        }
+    },
+    {
+        "title": "2",
+        "image": "../../../assets/images/numbers/2.png",
+        "description": "2",
+        "style": {
+            "height": "107px",
+            "width": "100%"
+        }
+    },
+    {
+        "title": "3",
+        "image": "../../../assets/images/numbers/3.png",
+        "description": "3",
+        "style": {
+            "height": "103px",
+            "width": "70%"
+        }
+    },
+    {
+        "title": "4",
+        "image": "../../../assets/images/numbers/4.png",
+        "description": "4",
+        "style": {
+            "height": "105px",
+            "width": "62%"
+        }
+    },
+    {
+        "title": "5",
+        "image": "../../../assets/images/numbers/5.png",
+        "description": "5",
+        "style": {
+            "height": "105px",
+            "width": "94%"
+        }
+    },
+    {
+        "title": "6",
+        "image": "../../../assets/images/numbers/6.png",
+        "description": "6",
+        "style": {
+            "height": "103px",
+            "width": "50%"
+        }
+    },
+    {
+        "title": "7",
+        "image": "../../../assets/images/numbers/7.png",
+        "description": "7",
+        "style": {
+            "height": "106px",
+            "width": "78%"
+        }
+    },
+    {
+        "title": "8",
+        "image": "../../../assets/images/numbers/8.png",
+        "description": "8",
+        "style": {
+            "height": "105px",
+            "width": "68%"
+        }
+    },
+    {
+        "title": "9",
+        "image": "../../../assets/images/numbers/9.png",
+        "description": "9",
+        "style": {
+            "height": "104px",
+            "width": "67%"
+        }
+    },
+    {
+        "title": "10",
+        "image": "../../../assets/images/numbers/10.png",
+        "description": "10",
+        "style": {
+            "height": "104px",
+            "width": "58%"
+        }
+    }
+]
