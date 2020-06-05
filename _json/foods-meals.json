@@ -1,0 +1,83 @@
+[
+    {
+        "title": "thirsty",
+        "image": "../../../assets/images/foods-meals/thirsty.png",
+        "description": "thirsty",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "to eat",
+        "image": "../../../assets/images/foods-meals/to eat.png",
+        "description": "to eat",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "lunch",
+        "image": "../../../assets/images/foods-meals/lunch.png",
+        "description": "lunch",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "drink",
+        "image": "../../../assets/images/foods-meals/drink.png",
+        "description": "drink",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "water",
+        "image": "../../../assets/images/foods-meals/water.png",
+        "description": "water",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "hungery",
+        "image": "../../../assets/images/foods-meals/hungery.png",
+        "description": "hungery",
+        "style": {
+            "height": "132px",
+            "width": "56%"
+        }
+    },
+    {
+        "title": "spoon",
+        "image": "../../../assets/images/foods-meals/spoon.png",
+        "description": "spoon",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "fish",
+        "image": "../../../assets/images/foods-meals/fish.png",
+        "description": "fish",
+        "style": {
+            "height": "132px",
+            "width": "74%"
+        }
+    },
+    {
+        "title": "breakfast",
+        "image": "../../../assets/images/foods-meals/breakfast.png",
+        "description": "breakfast",
+        "style": {
+            "height": "132px",
+            "width": "100%"
+        }
+    }
+]
