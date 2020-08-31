@@ -1,7 +1,7 @@
 [
     {
         "title": "A",
-        "image": "../../../assets/images/alphabets/A.png",
+        "image": "https://github.com/Rvivekg/My_JSON_Files/blob/master/images/alphabets/A.png?raw=true",
         "description": "A",
         "style": {
             "height": "60px",
@@ -10,7 +10,7 @@
     },
     {
         "title": "B",
-        "image": "../../../assets/images/alphabets/B.png",
+        "image": "https://github.com/Rvivekg/My_JSON_Files/blob/master/images/alphabets/B.png?raw=true",
         "description": "B",
         "style": {
             "height": "65px",
@@ -19,7 +19,7 @@
     },
     {
         "title": "C",
-        "image": "../../../assets/images/alphabets/C.png",
+        "image": "https://github.com/Rvivekg/My_JSON_Files/blob/master/images/alphabets/C.png?raw=true",
         "description": "C",
         "style": {
             "height": "60px",
@@ -28,7 +28,7 @@
     },
     {
         "title": "D",
-        "image": "../../../assets/images/alphabets/D.png",
+        "image": "https://github.com/Rvivekg/My_JSON_Files/blob/master/images/alphabets/D.png?raw=true",
         "description": "D",
         "style": {
             "height": "60px",
@@ -37,7 +37,7 @@
     },
     {
         "title": "E",
-        "image": "../../../assets/images/alphabets/E.png",
+        "image": "https://github.com/Rvivekg/My_JSON_Files/blob/master/images/alphabets/E.png?raw=true",
         "description": "E",
         "style": {
             "height": "60px",
@@ -46,7 +46,7 @@
     },
     {
         "title": "F",
-        "image": "../../../assets/images/alphabets/F.png",
+        "image": "https://github.com/Rvivekg/My_JSON_Files/blob/master/images/alphabets/F.png?raw=true",
         "description": "F",
         "style": {
             "height": "60px",
